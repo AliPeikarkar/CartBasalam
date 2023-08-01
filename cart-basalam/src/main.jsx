@@ -22,7 +22,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     View="4.4 (91نظر)"
     OriginalPrice="465,000"
     Discount="12%"
-    Price="410,000"
+    Price="420,000"
     />
   </React.StrictMode>,
 )
