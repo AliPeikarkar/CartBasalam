@@ -1,0 +1,44 @@
+.cart{
+    width: 224px;
+    height: 424px;
+    padding: 0.8rem;
+    background-color: #fff;
+}
+
+.paragraf{
+    font-size: 0.85rem;
+    padding-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.location , .View{
+    font-size: 0.7rem;
+    color: rgb(149, 149, 149);
+}
+
+.mark1 , .mark2{
+    font-size: 0.8rem;
+    color: black;
+}
+
+.mark3{
+    width: 2rem;
+    height: 2rem;
+    padding: 0.5rem;
+    color: #fff;
+    background-color: #ff5c39;
+    border-radius: 0.3rem;
+}
+
+.OriginalPrice{
+    color: rgb(176, 176, 176);
+    text-decoration: line-through;
+}
+
+.discount{
+    color: #ff5c39;
+    background-color: #fde3dd;
+    padding: 0.2rem;
+    border-radius: 0.3rem;
+    margin-right: 0.3rem;
+}
